@@ -6,7 +6,13 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/"
+    directory: "/apps/events-service/"
+    target-branch: "main"
+    schedule:
+      interval: "daily"    
+    open-pull-requests-limit: 20
+  - package-ecosystem: "npm"
+    directory: "/apps/events-service-admin/"
     target-branch: "main"
     schedule:
       interval: "daily"    
