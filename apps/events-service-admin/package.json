@@ -10,7 +10,7 @@
     "react": "^19.0.0",
     "react-admin": "^5.1.0",
     "react-dom": "^19.0.0",
-    "sass": "^1.39.0"
+    "sass": "^1.83.4"
   },
   "scripts": {
     "start": "vite",
