@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@apollo/client": "3.12.5",
-    "graphql": "15.9.0",
+    "graphql": "15.10.1",
     "lodash": "4.17.21",
     "pluralize": "8.0.0",
     "ra-data-graphql-amplication": "1.0.4-beta.1",
