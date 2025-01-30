@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Amplication-my-new-resource-from-mssql-and-rest
+  description: This is the description for my thing.
+  labels:
+    vendor: "amplication"
+  annotations:
+    github.com/team-slug: "backstage/maintainers"
+    github.com/project-slug: "backstage/backstage"
+  tags:
+    - ".NET"
+  links:
+    - url: https://server.amplication-sandbox.com/cm65ggpy3003t57v2xilb5mrs
+      title: Amplication Platform
+spec:
+  type: service
+  lifecycle: production
+  owner: development
