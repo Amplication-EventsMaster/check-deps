@@ -2,7 +2,7 @@
   "name": "@events-service/admin",
   "private": true,
   "dependencies": {
-    "@apollo/client": "3.12.5",
+    "@apollo/client": "3.13.0",
     "graphql": "15.9.0",
     "lodash": "4.17.21",
     "pluralize": "8.0.0",
